@@ -1,0 +1,1 @@
+http://n.cloudpub.ru/asset/BodyColors.ashx?userId=<?=(int)$_GET['userId']?>;http://n.cloudpub.ru/asset/Hat.ashx?userId=<?=(int)$_GET['userId']?>;http://n.cloudpub.ru/asset/Face.ashx?userId=<?=(int)$_GET['userId']?>
